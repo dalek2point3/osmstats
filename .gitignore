@@ -55,3 +55,6 @@ docs/_build/
 # data files
 *.osm.bz2
 *.zip
+
+# emacs backup files
+*~*
